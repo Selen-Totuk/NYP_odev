@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\selen\\source\\repos\\KuantumKaosYoneticisi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A671FEBA-1B84-4B05-8E2C-1E5D52493993}|KuantumKaosYoneticisi\\KuantumKaosYoneticisi.csproj|c:\\users\\selen\\source\\repos\\kuantumkaosyoneticisi\\kuantumkaosyoneticisi\\antimadde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A671FEBA-1B84-4B05-8E2C-1E5D52493993}|KuantumKaosYoneticisi\\KuantumKaosYoneticisi.csproj|solutionrelative:kuantumkaosyoneticisi\\antimadde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A671FEBA-1B84-4B05-8E2C-1E5D52493993}|KuantumKaosYoneticisi\\KuantumKaosYoneticisi.csproj|c:\\users\\selen\\source\\repos\\kuantumkaosyoneticisi\\kuantumkaosyoneticisi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A671FEBA-1B84-4B05-8E2C-1E5D52493993}|KuantumKaosYoneticisi\\KuantumKaosYoneticisi.csproj|solutionrelative:kuantumkaosyoneticisi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 365,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AntiMadde.cs",
+              "DocumentMoniker": "C:\\Users\\selen\\source\\repos\\KuantumKaosYoneticisi\\KuantumKaosYoneticisi\\AntiMadde.cs",
+              "RelativeDocumentMoniker": "KuantumKaosYoneticisi\\AntiMadde.cs",
+              "ToolTip": "C:\\Users\\selen\\source\\repos\\KuantumKaosYoneticisi\\KuantumKaosYoneticisi\\AntiMadde.cs",
+              "RelativeToolTip": "KuantumKaosYoneticisi\\AntiMadde.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:19:17.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\selen\\source\\repos\\KuantumKaosYoneticisi\\KuantumKaosYoneticisi\\Program.cs",
+              "RelativeDocumentMoniker": "KuantumKaosYoneticisi\\Program.cs",
+              "ToolTip": "C:\\Users\\selen\\source\\repos\\KuantumKaosYoneticisi\\KuantumKaosYoneticisi\\Program.cs",
+              "RelativeToolTip": "KuantumKaosYoneticisi\\Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAuwHwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:12:08.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

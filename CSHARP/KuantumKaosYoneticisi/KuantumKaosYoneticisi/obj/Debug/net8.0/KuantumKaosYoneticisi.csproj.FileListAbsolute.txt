@@ -1,0 +1,14 @@
+C:\Users\selen\source\repos\KuantumKaosYoneticisi\KuantumKaosYoneticisi\bin\Debug\net8.0\KuantumKaosYoneticisi.exe
+C:\Users\selen\source\repos\KuantumKaosYoneticisi\KuantumKaosYoneticisi\bin\Debug\net8.0\KuantumKaosYoneticisi.deps.json
+C:\Users\selen\source\repos\KuantumKaosYoneticisi\KuantumKaosYoneticisi\bin\Debug\net8.0\KuantumKaosYoneticisi.runtimeconfig.json
+C:\Users\selen\source\repos\KuantumKaosYoneticisi\KuantumKaosYoneticisi\bin\Debug\net8.0\KuantumKaosYoneticisi.dll
+C:\Users\selen\source\repos\KuantumKaosYoneticisi\KuantumKaosYoneticisi\bin\Debug\net8.0\KuantumKaosYoneticisi.pdb
+C:\Users\selen\source\repos\KuantumKaosYoneticisi\KuantumKaosYoneticisi\obj\Debug\net8.0\KuantumKaosYoneticisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selen\source\repos\KuantumKaosYoneticisi\KuantumKaosYoneticisi\obj\Debug\net8.0\KuantumKaosYoneticisi.AssemblyInfoInputs.cache
+C:\Users\selen\source\repos\KuantumKaosYoneticisi\KuantumKaosYoneticisi\obj\Debug\net8.0\KuantumKaosYoneticisi.AssemblyInfo.cs
+C:\Users\selen\source\repos\KuantumKaosYoneticisi\KuantumKaosYoneticisi\obj\Debug\net8.0\KuantumKaosYoneticisi.csproj.CoreCompileInputs.cache
+C:\Users\selen\source\repos\KuantumKaosYoneticisi\KuantumKaosYoneticisi\obj\Debug\net8.0\KuantumKaosYoneticisi.dll
+C:\Users\selen\source\repos\KuantumKaosYoneticisi\KuantumKaosYoneticisi\obj\Debug\net8.0\refint\KuantumKaosYoneticisi.dll
+C:\Users\selen\source\repos\KuantumKaosYoneticisi\KuantumKaosYoneticisi\obj\Debug\net8.0\KuantumKaosYoneticisi.pdb
+C:\Users\selen\source\repos\KuantumKaosYoneticisi\KuantumKaosYoneticisi\obj\Debug\net8.0\KuantumKaosYoneticisi.genruntimeconfig.cache
+C:\Users\selen\source\repos\KuantumKaosYoneticisi\KuantumKaosYoneticisi\obj\Debug\net8.0\ref\KuantumKaosYoneticisi.dll
